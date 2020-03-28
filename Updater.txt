@@ -1,0 +1,7 @@
+{ 
+   "ver1":"2",
+   "ver2":"0",
+   "ver3":"
+   \n\nMUST Update..\nYour TaalMala is OutDated!
+   \nCurrent stable build is v2.0!"
+}
