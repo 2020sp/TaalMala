@@ -1,5 +1,5 @@
 { 
-   "ver1":"2",
+   "ver1":"1",
    "ver2":"0",
    "ver3":"
    \n\nMUST Update..\nYour TaalMala is OutDated!
